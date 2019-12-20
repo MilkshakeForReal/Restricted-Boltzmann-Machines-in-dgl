@@ -4,8 +4,9 @@ RBM procedure using dgl(torch backend) test on MNIST datasets
 
 ## Real data
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![real](https://github.com/MilkshakeForReal/Restricted-Boltzmann-Machines-in-dgl/blob/master/real.png)
 
 ## Generate after learning
 
+![g](https://github.com/MilkshakeForReal/Restricted-Boltzmann-Machines-in-dgl/blob/master/generate.png)
 
