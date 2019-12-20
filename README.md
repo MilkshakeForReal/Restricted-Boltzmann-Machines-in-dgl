@@ -12,4 +12,5 @@ RBM procedure using dgl(torch backend) test on MNIST datasets
 
 ## Reference
 - https://github.com/odie2630463/Restricted-Boltzmann-Machines-in-pytorch
+- http://www.cs.toronto.edu/~hinton/absps/guideTR.pdf
 
