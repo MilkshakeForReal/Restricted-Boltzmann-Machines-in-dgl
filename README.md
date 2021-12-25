@@ -1,4 +1,4 @@
-# Restricted-Boltzmann-Machines-in-dgl
+# Restricted-Boltzmann-Machines-in-Deep Graph Library
 
 RBM procedure using dgl(torch backend) test on MNIST datasets
 
